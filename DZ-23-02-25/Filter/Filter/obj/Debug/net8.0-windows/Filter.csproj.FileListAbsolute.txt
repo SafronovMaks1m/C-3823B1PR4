@@ -1,0 +1,17 @@
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\bin\Debug\net8.0-windows\Filter.exe
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\bin\Debug\net8.0-windows\Filter.deps.json
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\bin\Debug\net8.0-windows\Filter.runtimeconfig.json
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\bin\Debug\net8.0-windows\Filter.dll
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\bin\Debug\net8.0-windows\Filter.pdb
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.Form1.resources
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.csproj.GenerateResource.cache
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.AssemblyInfoInputs.cache
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.AssemblyInfo.cs
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.csproj.CoreCompileInputs.cache
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.dll
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\refint\Filter.dll
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.pdb
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.genruntimeconfig.cache
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\ref\Filter.dll
+C:\lessons\компьютерная графика\laba_1\Filter\Filter\obj\Debug\net8.0-windows\Filter.Properties.Resources.resources
