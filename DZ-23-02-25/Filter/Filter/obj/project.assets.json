@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Maksim\\.nuget\\packages\\": {},
+    "C:\\Users\\Наталья\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\lessons\\компьютерная графика\\laba_1\\Filter\\Filter\\Filter.csproj",
+      "projectUniqueName": "C:\\lessons\\C-3823B1PR4\\DZ-23-02-25\\Filter\\Filter\\Filter.csproj",
       "projectName": "Filter",
-      "projectPath": "C:\\lessons\\компьютерная графика\\laba_1\\Filter\\Filter\\Filter.csproj",
-      "packagesPath": "C:\\Users\\Maksim\\.nuget\\packages\\",
-      "outputPath": "C:\\lessons\\компьютерная графика\\laba_1\\Filter\\Filter\\obj\\",
+      "projectPath": "C:\\lessons\\C-3823B1PR4\\DZ-23-02-25\\Filter\\Filter\\Filter.csproj",
+      "packagesPath": "C:\\Users\\Наталья\\.nuget\\packages\\",
+      "outputPath": "C:\\lessons\\C-3823B1PR4\\DZ-23-02-25\\Filter\\Filter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Maksim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Наталья\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,11 +46,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,15 +62,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

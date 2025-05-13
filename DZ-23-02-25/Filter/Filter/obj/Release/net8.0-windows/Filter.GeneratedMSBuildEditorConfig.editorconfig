@@ -14,6 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Filter
-build_property.ProjectDir = C:\lessons\компьютерная графика\laba_1\Filter\Filter\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\lessons\C-3823B1PR4\DZ-23-02-25\Filter\Filter\

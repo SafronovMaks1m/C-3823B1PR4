@@ -1,0 +1,67 @@
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.exe
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.deps.json
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.runtimeconfig.json
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.pdb
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Audio.OpenAL.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Compute.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Core.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Graphics.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Input.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Mathematics.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.Common.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.Desktop.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libglfw.so.3
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.AssemblyReference.cache
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.Form1.resources
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.GenerateResource.cache
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.AssemblyInfoInputs.cache
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.AssemblyInfo.cs
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.CoreCompileInputs.cache
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.sourcelink.json
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.Up2Date
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\refint\Shaders.dll
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.pdb
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.genruntimeconfig.cache
+C:\lessons\C-3823B1PR4\laba_3\Shaders\Shaders\obj\Debug\net6.0-windows\ref\Shaders.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.exe
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.deps.json
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.runtimeconfig.json
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\Shaders.pdb
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Audio.OpenAL.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Compute.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Core.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Graphics.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Input.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Mathematics.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.Common.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.Desktop.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libglfw.so.3
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libglfw.3.dylib
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\lessons\комп графика\Shaders\Shaders\bin\Debug\net6.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.AssemblyReference.cache
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.Form1.resources
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.GenerateResource.cache
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.AssemblyInfoInputs.cache
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.AssemblyInfo.cs
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.CoreCompileInputs.cache
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.csproj.CopyComplete
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.dll
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\refint\Shaders.dll
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.pdb
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\Shaders.genruntimeconfig.cache
+C:\lessons\комп графика\Shaders\Shaders\obj\Debug\net6.0-windows\ref\Shaders.dll
